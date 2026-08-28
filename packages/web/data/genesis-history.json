@@ -1,0 +1,140 @@
+[
+  {
+    "brief": "atelier de couteaux de cuisine forges a la main a Liege, acier damas, series numerotees, vente directe et affutage a vie",
+    "pattern": "PATRON IMPOSÉ — CHAMP SCINDÉ ASYMÉTRIQUE : le cadre coupé verticalement en deux zones inégales (par ex. 38 / 62), une teinte pleine d'un côté avec le titre et le texte courant, l'image pleine hauteur de l'autre, la coupe franche sans bordure.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — bleu électrique saturé (#1F3BE8) contre un gris clair neutre, accents noirs.",
+    "navigation": "hijacked-scroll",
+    "at": 1787870263110
+  },
+  {
+    "brief": "atelier de couteaux de cuisine forges a la main a Liege, acier damas, series numerotees, vente directe et affutage a vie",
+    "pattern": "PATRON IMPOSÉ — OCCLUSION TYPOGRAPHIQUE : mot-titre géant traversant le cadre, sujet photographié à l'échelle 1:1 qui passe devant une partie des lettres, navigation et micro-typo dans les quatre coins.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — écru chaud (#EFE9DE) avec un accent encre noire — à ne traiter que si la marque l'exige vraiment.",
+    "navigation": "hijacked-scroll",
+    "at": 1787871427977
+  },
+  {
+    "brief": "Une marque de couteaux de cuisine forges a la main, acier damas, atelier familial dans les Ardennes belges",
+    "pattern": "PATRON IMPOSÉ — PHOTO PLEIN BORD : l'image occupe 100 % du cadre, la typographie et la navigation posées PAR-DESSUS en blanc ou en teinte extraite de l'image, un seul bloc de texte aligné sur un tiers, aucun aplat de fond.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — vert pâle minéral (#C8D5C4) avec un accent aubergine profond et des filets noirs.",
+    "navigation": "no-scroll-stage",
+    "at": 1787873414029
+  },
+  {
+    "runId": "gen_mtc73fp0_z5y9kk",
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "",
+    "palette": "",
+    "navigation": "cursor-orbit",
+    "at": 1787875909746,
+    "association": "chaussure Velora x inclinaison du connaisseur — pivot-parallaxe lent au regard"
+  },
+  {
+    "runId": "gen_mtc77gl3_ddlsxo",
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "",
+    "palette": "",
+    "navigation": "no-scroll-stage",
+    "at": 1787876108811,
+    "association": "chaussure Velora x règle de tailleur pliante — dépliage angulaire segmenté au clic"
+  },
+  {
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "PATRON IMPOSÉ — TYPOGRAPHIE SEULE : aucune photographie, uniquement de la matière typographique à plusieurs échelles (rapport d'au moins 1 à 12 entre le plus petit et le plus grand texte), une couleur d'accent unique, la navigation traitée comme un élément graphique.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — gris de béton froid (#8E9093) avec un accent rouge sang (#B3231C) et des noirs vrais.",
+    "navigation": "cursor-orbit",
+    "at": 1787876188869
+  },
+  {
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "PATRON IMPOSÉ — MODULE FLOTTANT : un grand aplat de couleur saturée, une carte ou fenêtre rectangulaire nette décalée hors centre contenant l'image et le libellé d'action, le titre débordant du module, ombre portée franche.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — vert profond presque noir (#0F2A22) avec un accent jaune acide, textes en blanc cassé.",
+    "navigation": "no-scroll-stage",
+    "at": 1787876342062
+  },
+  {
+    "runId": "gen_mtcv38d9_j1iu0l",
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "",
+    "palette": "",
+    "navigation": "cursor-orbit",
+    "at": 1787916723304,
+    "association": "chaussure Velora x papier vergé translucide — curseur-lampe révèle fibres cachées",
+    "font": "Didot"
+  },
+  {
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "PATRON IMPOSÉ — SCÈNE PROFONDE : une photographie d'espace ou d'environnement avec de la profondeur, la typographie posée dans la perspective ou alignée sur une arête de la scène, navigation en haut sur une seule ligne.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — bleu électrique saturé (#1F3BE8) contre un gris clair neutre, accents noirs.",
+    "navigation": "cursor-orbit",
+    "at": 1787916465935
+  },
+  {
+    "runId": "gen_mtcxsw14_3pa6o1",
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "",
+    "palette": "",
+    "navigation": "no-scroll-stage",
+    "at": 1787921337179,
+    "association": "chaussure Velora x diapason — onde de résonance révèle au hover",
+    "font": "Dharma Gothic E"
+  },
+  {
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "PATRON IMPOSÉ — INDEX ÉDITORIAL DENSE : une liste ou un index numéroté en petit corps occupant une colonne entière, un très grand titre en tête, une seule image de taille modeste placée en contrepoint, beaucoup de filets d'un pixel.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — bleu de nuit dense (#12203F) avec un accent orange brûlé, aucun blanc pur.",
+    "navigation": "no-scroll-stage",
+    "at": 1787921050640
+  },
+  {
+    "runId": "gen_mtczey8t_4lbjmz",
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "",
+    "palette": "",
+    "navigation": "cursor-orbit",
+    "at": 1787923967404,
+    "association": "chaussure Velora x velours à contre-poil — direction du curseur inverse la matière",
+    "font": "Bodoni Moda"
+  },
+  {
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "PATRON IMPOSÉ — CHAMP SCINDÉ ASYMÉTRIQUE : le cadre coupé verticalement en deux zones inégales (par ex. 38 / 62), une teinte pleine d'un côté avec le titre et le texte courant, l'image pleine hauteur de l'autre, la coupe franche sans bordure.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — sable clair (#E8DFD1) en fond, bleu pétrole (#1D4E52) pour les blocs et le texte, accent jaune miel (#F0B429) sur les badges et le bouton.",
+    "navigation": "cursor-orbit",
+    "at": 1787923759161
+  },
+  {
+    "runId": "gen_mtd1lel3_liiz7b",
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "",
+    "palette": "",
+    "navigation": "cursor-orbit",
+    "at": 1787930195026,
+    "association": "chaussure Velora x papier buvard — halo qui imprègne et révèle par saturation",
+    "font": "Prata"
+  },
+  {
+    "brief": "cree une marque de chaussures de luxe appelee Velora",
+    "pattern": "PATRON IMPOSÉ — TYPOGRAPHIE SEULE : aucune photographie, uniquement de la matière typographique à plusieurs échelles (rapport d'au moins 1 à 12 entre le plus petit et le plus grand texte), une couleur d'accent unique, la navigation traitée comme un élément graphique.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — photographie couleur plein cadre dominante (le sujet réel occupe la majorité du cadre), typographie blanche posée dessus, barre de navigation blanche opaque en haut, aucun aplat de couleur inventé.",
+    "navigation": "cursor-orbit",
+    "at": 1787927426107
+  },
+  {
+    "runId": "gen_mtd24udc_i81mht",
+    "brief": "cret une mark de véo",
+    "pattern": "",
+    "palette": "",
+    "navigation": "hijacked-scroll",
+    "at": 1787929238262,
+    "association": "Vélo Roule Franc x claquement de dérailleur — scroll cranté par paliers secs",
+    "font": "Freight Display Pro"
+  },
+  {
+    "brief": "cret une mark de véo",
+    "pattern": "PATRON IMPOSÉ — PHOTO PLEIN BORD : l'image occupe 100 % du cadre, la typographie et la navigation posées PAR-DESSUS en blanc ou en teinte extraite de l'image, un seul bloc de texte aligné sur un tiers, aucun aplat de fond.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — bleu de nuit dense (#0E1A33) en dominante, dégradé subtil vers bleu électrique (#1F3BE8) dans une zone, textes blanc froid, accent vert acide (#B6FF3C) sur le seul bouton principal.",
+    "navigation": "hijacked-scroll",
+    "at": 1787928369311
+  }
+]

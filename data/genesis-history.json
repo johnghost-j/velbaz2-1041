@@ -1,0 +1,162 @@
+[
+  {
+    "brief": "un torrefacteur de cafe de specialite qui ne vend qu'un seul lot a la fois, tracabilite totale de la ferme a la tasse",
+    "pattern": "PATRON IMPOSÉ — MODULE FLOTTANT : un grand aplat de couleur saturée, une carte ou fenêtre rectangulaire nette décalée hors centre contenant l'image et le libellé d'action, le titre débordant du module, ombre portée franche.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — monochrome graphite (#1A1A1A à #4A4A4A), un seul accent blanc lumineux, aucune autre couleur.",
+    "navigation": "hijacked-scroll",
+    "at": 1787873595871
+  },
+  {
+    "brief": "une marque de couteaux de cuisine forges a la main, acier damas, atelier familial dans les Ardennes belges",
+    "pattern": "PATRON IMPOSÉ — PHOTO PLEIN BORD : l'image occupe 100 % du cadre, la typographie et la navigation posées PAR-DESSUS en blanc ou en teinte extraite de l'image, un seul bloc de texte aligné sur un tiers, aucun aplat de fond.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — bleu électrique saturé (#1F3BE8) contre un gris clair neutre, accents noirs.",
+    "navigation": "no-scroll-stage",
+    "at": 1787873644883
+  },
+  {
+    "runId": "gen_mtc6a0l7_sikjdn",
+    "brief": "un atelier de restauration de velos de course en acier des annees 80, remontage piece par piece, a Gand",
+    "pattern": "",
+    "palette": "",
+    "navigation": "locked-chapters",
+    "at": 1787874544454,
+    "association": ""
+  },
+  {
+    "brief": "un atelier de restauration de velos de course en acier des annees 80, remontage piece par piece, a Gand",
+    "pattern": "PATRON IMPOSÉ — TYPOGRAPHIE SEULE : aucune photographie, uniquement de la matière typographique à plusieurs échelles (rapport d'au moins 1 à 12 entre le plus petit et le plus grand texte), une couleur d'accent unique, la navigation traitée comme un élément graphique.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — gris de béton froid (#8E9093) avec un accent rouge sang (#B3231C) et des noirs vrais.",
+    "navigation": "locked-chapters",
+    "at": 1787874680949
+  },
+  {
+    "runId": "gen_mtc6of6o_g24ymo",
+    "brief": "un atelier de restauration de velos de course en acier des annees 80, remontage piece par piece, a Gand",
+    "pattern": "",
+    "palette": "",
+    "navigation": "hijacked-scroll",
+    "at": 1787875230152,
+    "association": "Vélo × lettre pliée — dépliage manuel en trois volets"
+  },
+  {
+    "brief": "un atelier de restauration de velos de course en acier des annees 80, remontage piece par piece, a Gand",
+    "pattern": "PATRON IMPOSÉ — OCCLUSION TYPOGRAPHIQUE : mot-titre géant traversant le cadre, sujet photographié à l'échelle 1:1 qui passe devant une partie des lettres, navigation et micro-typo dans les quatre coins.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — vert profond presque noir (#0F2A22) avec un accent jaune acide, textes en blanc cassé.",
+    "navigation": "hijacked-scroll",
+    "at": 1787875396625
+  },
+  {
+    "runId": "gen_mtctoc69_0gzr3r",
+    "brief": "un atelier de restauration de velos de course en acier des annees 80, remontage piece par piece, a Gand",
+    "pattern": "",
+    "palette": "",
+    "navigation": "no-scroll-stage",
+    "at": 1787914378601,
+    "association": "Vélo x trame tissée — pieces traversent lateralement, se verrouillent",
+    "font": "Founders Caslon"
+  },
+  {
+    "brief": "un atelier de restauration de velos de course en acier des annees 80, remontage piece par piece, a Gand",
+    "pattern": "PATRON IMPOSÉ — CHAMP SCINDÉ ASYMÉTRIQUE : le cadre coupé verticalement en deux zones inégales (par ex. 38 / 62), une teinte pleine d'un côté avec le titre et le texte courant, l'image pleine hauteur de l'autre, la coupe franche sans bordure.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — vert pâle minéral (#C8D5C4) avec un accent aubergine profond et des filets noirs.",
+    "navigation": "no-scroll-stage",
+    "at": 1787913972700
+  },
+  {
+    "runId": "gen_mtcuovcr_thnvw9",
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "",
+    "palette": "",
+    "navigation": "no-scroll-stage",
+    "at": 1787915852635,
+    "association": "Chaussure Veld x haussement d'épaules — décalage latéral sec au scroll",
+    "font": "Söhne Breit"
+  },
+  {
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "PATRON IMPOSÉ — SCÈNE PROFONDE : une photographie d'espace ou d'environnement avec de la profondeur, la typographie posée dans la perspective ou alignée sur une arête de la scène, navigation en haut sur une seule ligne.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — écru chaud (#EFE9DE) avec un accent encre noire — à ne traiter que si la marque l'exige vraiment.",
+    "navigation": "no-scroll-stage",
+    "at": 1787915686177
+  },
+  {
+    "runId": "gen_mtcvs8kp_ru2otx",
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "",
+    "palette": "",
+    "navigation": "no-scroll-stage",
+    "at": 1787917380099,
+    "association": "Chaussure Solen x diapason — clic-impact, oscillation amortie révèle contenu"
+  },
+  {
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "PATRON IMPOSÉ — TYPOGRAPHIE SEULE : aucune photographie, uniquement de la matière typographique à plusieurs échelles (rapport d'au moins 1 à 12 entre le plus petit et le plus grand texte), une couleur d'accent unique, la navigation traitée comme un élément graphique.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — bleu électrique saturé (#1F3BE8) contre un gris clair neutre, accents noirs.",
+    "navigation": "no-scroll-stage",
+    "at": 1787917506360
+  },
+  {
+    "runId": "gen_mtcwfv9i_nsb817",
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "",
+    "palette": "",
+    "navigation": "no-scroll-stage",
+    "at": 1787918482651,
+    "association": "Chaussure Forme Pure x feutre pressé — compression au survol, retour lent"
+  },
+  {
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "PATRON IMPOSÉ — PHOTO PLEIN BORD : l'image occupe 100 % du cadre, la typographie et la navigation posées PAR-DESSUS en blanc ou en teinte extraite de l'image, un seul bloc de texte aligné sur un tiers, aucun aplat de fond.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — monochrome graphite (#1A1A1A à #4A4A4A), un seul accent blanc lumineux, aucune autre couleur.",
+    "navigation": "no-scroll-stage",
+    "at": 1787918639510
+  },
+  {
+    "runId": "gen_mtcx82e0_lzihxt",
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "",
+    "palette": "",
+    "navigation": "hijacked-scroll",
+    "at": 1787919800567,
+    "association": "Chaussure Ferra"
+  },
+  {
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "PATRON IMPOSÉ — MODULE FLOTTANT : un grand aplat de couleur saturée, une carte ou fenêtre rectangulaire nette décalée hors centre contenant l'image et le libellé d'action, le titre débordant du module, ombre portée franche.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — bleu de nuit dense (#12203F) avec un accent orange brûlé, aucun blanc pur.",
+    "navigation": "hijacked-scroll",
+    "at": 1787919929184
+  },
+  {
+    "runId": "gen_mtcytmsl_oa83mo",
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "",
+    "palette": "",
+    "navigation": "mask-reveal",
+    "at": 1787922503739,
+    "association": "Chaussure Solen x papier calque — fenêtre-hublot révèle couche sous-jacente"
+  },
+  {
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "PATRON IMPOSÉ — SCÈNE PROFONDE : une photographie d'espace ou d'environnement avec de la profondeur, la typographie posée dans la perspective ou alignée sur une arête de la scène, navigation en haut sur une seule ligne.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — vert pâle minéral (#C8D5C4) en fond, aubergine profond (#3A1F38) pour la typographie, accent orange doux (#E8843C) sur l'action principale.",
+    "navigation": "mask-reveal",
+    "at": 1787922649698
+  },
+  {
+    "runId": "gen_mtd09f1g_1drn46",
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "",
+    "palette": "",
+    "navigation": "hijacked-scroll",
+    "at": 1787924917378,
+    "association": "Chaussure Forme Nette x clignement d'œil — clignement vertical remplace la section"
+  },
+  {
+    "brief": "une marque de chaussures de sport minimaliste, fabrication europeenne, orientee course a pied urbaine, positionnement premium mais pas luxe tape-a-l-oeil",
+    "pattern": "PATRON IMPOSÉ — OCCLUSION TYPOGRAPHIQUE : mot-titre géant traversant le cadre, sujet photographié à l'échelle 1:1 qui passe devant une partie des lettres, navigation et micro-typo dans les quatre coins.",
+    "palette": "REGISTRE CHROMATIQUE IMPOSÉ — blanc cassé (#F7F6F3) et noir encre (#111111) en photographie noir et blanc dominante, un seul accent rouge (#E2231A) sur le bouton et les filets, grille très stricte.",
+    "navigation": "hijacked-scroll",
+    "at": 1787925052337
+  }
+]
